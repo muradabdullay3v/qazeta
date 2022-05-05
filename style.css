@@ -1,0 +1,308 @@
+/* .goog{
+    background-color: #008789;
+    padding: 0px 30px;
+    display: inline-block;
+    border-right: 4px solid #7C5746;
+    border-left: 4px solid #7C5746;
+    border-radius: 10px 0 10px 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+.svg .fa-facebook {
+    color: #375496;
+    font-size: 20px;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.svg p {
+    color: grey;
+}
+
+span{
+    margin: 250px 150px;
+    background-color: #000;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: lime;
+}
+
+.svg .fa-car{
+    color: red;
+}
+
+.svg .fa-folder{
+    color: #FFEAA4;
+}
+
+.svg i{
+    transition: color 0.5s;
+}
+
+.svg i:hover {
+    color: #000;
+    animation: anim 0.5s infinite;
+}
+
+
+@keyframes anim{
+    0%{
+        transform: rotate(0deg);
+    }
+    10%{
+        transform: rotate(5deg);
+    }
+    15%{
+        transform: rotate(10deg);
+    }
+    20%{
+        transform: rotate(15deg);
+    }
+    25%{
+        transform: rotate(20deg);
+    }
+    30%{
+        transform: rotate(15deg);
+    }
+    35%{
+        transform: rotate(10deg);
+    }
+    40%{
+        transform: rotate(5deg);
+    }
+    45%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(-5deg);
+    }
+    55%{
+        transform: rotate(-10deg);
+    }
+    60%{
+        transform: rotate(-15deg);
+    }
+    65%{
+        transform: rotate(-20deg);
+    }
+    70%{
+        transform: rotate(-15deg);
+    }
+    75%{
+        transform: rotate(-10deg);
+    }
+    80%{
+        transform: rotate(-5deg);
+    }
+    85%{
+        transform: rotate(0deg);
+    }
+    90%{
+        transform: rotate(0deg);
+    }
+    95%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
+    
+} */
+
+/* .bold{
+    font-weight: bolder;
+}
+
+.light{
+    font-weight: 100;
+}
+
+
+.yazilar{
+    display: block;
+    text-align: center;
+}
+
+.yazilar p{
+    display: inline-block;
+    text-align: center;
+}
+
+.cards{
+    display: inline-block;
+    margin: 0px 0 0 620PX;
+    text-align: center;
+}
+
+.cards div{
+    display: inline-block;
+    padding: 25px;
+}
+
+i{
+    font-size: 72px;
+    color: rgb(114, 78, 0);
+}
+
+i:hover {
+    color: #000;
+    animation: anim 0.5s infinite;
+} */
+
+/* .bold{
+    font-weight: bolder;
+}
+
+.light{
+    font-weight: 100;
+}
+
+
+.yazilar{
+    display: block;
+    text-align: center;
+    animation: colorRotate 10s infinite;
+}
+
+.yazilar p{
+    display: inline-block;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    max-width: 640px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.cards div{
+    display: inline-block;
+    padding: 25px;
+}
+
+i{
+    font-size: 72px;
+    color: rgb(114, 78, 0);
+}
+
+i:hover {
+    color: #000;
+    animation: anim 0.5s;
+}
+
+
+@keyframes colorRotate {
+    0% {
+      color: #ff0000;
+    }
+    10% {
+      color: #ffa500;
+    }
+    20% {
+      color: #ffff00;
+    }
+    30% {
+      color: #008000;
+    }
+    40% {
+      color: #0000ff;
+    }
+    50%{
+        color: #4b0082;
+    }
+    60%{
+        color: #ee82ee;
+    }
+    70%{
+        color: #ff0000;
+    }
+    80%{
+        color: #ffa500;
+    }
+    90%{
+        color: #ffff00;
+    }
+    100%{
+        color: #008000;
+    }
+  } */
+
+  *{
+      margin: 0;
+      padding: 0;
+  }
+
+  body{
+    font-family: 'Poppins';
+    margin: 10px 40px 0 40px;
+  }
+
+
+
+  .name{
+    border-bottom: 2px solid black;
+    font-size: 20px;
+  }
+
+  .first{
+      font-weight: bolder;
+  }
+
+  .last{
+      font-weight: lighter;
+  }
+
+  .name p{
+      display: inline;
+  }
+
+  .lists{
+      float: right;
+  }
+
+  .bir{
+    display: inline-block;
+
+  }
+
+  .iki{
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .ucuncu{
+      margin-top: 120px;
+  }
+
+  .in{
+      display: inline-block;
+  }
+
+  .proj{
+      display: inline-block;
+      margin-left: 50px;
+  }
+
+  .al{
+      margin-left: 270px;
+      display: inline-block;
+  }
+
+  .chi{
+      display: inline-block;
+  }
+
+  .list2{
+      display: inline-block;
+      float: right;
+      width: 700px;
+  }
